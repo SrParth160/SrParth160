@@ -1,6 +1,6 @@
 #  About Me:
 <h2>Hi 👋, I'm Parth</h2>
-<p>A passionate Backend developer at Swiftrut Technologies</p>
+<p>A passionate Backend developer</p>
 
 🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning frontend logics<br>⚡ Full stake Dev Soon 
 
